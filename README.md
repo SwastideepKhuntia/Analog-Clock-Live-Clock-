@@ -2,9 +2,9 @@
 
 
 Features
-Responsive Design: The clock is centered on the screen and adapts to different viewports1.
+Responsive Design: The clock is centered on the screen and adapts to different viewports.
 
-Smooth Animation: Clock hands rotate to accurately represent seconds, minutes, and hours using CSS transforms2.
+Smooth Animation: Clock hands rotate to accurately represent seconds, minutes, and hours using CSS transforms.
 
 Modern Styling: Custom fonts and a gradient background enhance the user experience.
 
